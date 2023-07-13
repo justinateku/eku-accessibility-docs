@@ -32,6 +32,6 @@ This documentation is divided into three parts:
 
 If you have any questions or need further assistance, please reach out to one of the following individuals:
 
-Justin Sovine: justin.sovine@eku.edu
-Cameron Fields: cameron.fields@eku.edu
-Anthony Newman: anthony.newman@eku.edu
+* Justin Sovine: justin.sovine@eku.edu
+* Cameron Fields: cameron.fields@eku.edu
+* Anthony Newman: anthony.newman@eku.edu
