@@ -12,14 +12,15 @@ We adhere to the Web Content Accessibility Guidelines (WCAG) 2.2. WCAG provides 
 
 * [WCAG 2.2 Video]()
 * [W3 WCAG 2.2 Documentation]()
+* [Why website popups SUCK for accessibility (WCAG 2.2)]()
 
 This documentation is divided into three parts, each focusing on different aspects of web accessibility. Here are brief descriptions of each part:
 
-1. **[Guidelines & Best Practices]()** - This section provides guidelines and best practices for creating accessible web content. It covers topics such as text size, color contrast, alternative text descriptions, and more.
+1. **[Guidelines & Best Practices](guidelines-and-best-practices.md)** - This section provides guidelines and best practices for creating accessible web content. It covers topics such as text size, color contrast, alternative text descriptions, and more.
    
-2. **[Go-Live Checklist]()** - The go-live checklist ensures that accessibility considerations are taken into account before launching a website or making updates. It helps ensure that accessibility is maintained throughout the development and maintenance process.
+2. **[Go-Live Checklist](go-live-checklist.md)** - The go-live checklist ensures that accessibility considerations are taken into account before launching a website or making updates. It helps ensure that accessibility is maintained throughout the development and maintenance process.
    
-3. **[Auditing Tools]()** - In this section, you will find information about tools and resources that can be used to audit and evaluate the accessibility of web content. These tools assist in identifying accessibility issues and provide guidance on how to address them effectively.
+3. **[Auditing Tools](auditing-tools.md)** - In this section, you will find information about tools and resources that can be used to audit and evaluate the accessibility of web content. These tools assist in identifying accessibility issues and provide guidance on how to address them effectively.
 
 ## Contact Information
 
