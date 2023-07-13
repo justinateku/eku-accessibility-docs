@@ -8,11 +8,16 @@ Accessibility refers to the practice of designing and developing web content tha
 
 ## Standards We Adhere To
 
-We adhere to the Web Content Accessibility Guidelines (WCAG) 2.2. WCAG provides a set of internationally recognized standards for web accessibility. By adhering to these guidelines, we ensure that our web content is accessible to a wide range of users. For a detailed understanding of WCAG 2.2, please refer to the following resources:
+We adhere to the Web Content Accessibility Guidelines (WCAG) 2.2. WCAG provides a set of internationally recognized standards for web accessibility. By adhering to these guidelines, we ensure that our web content is accessible to a wide range of users. 
 
-* [WCAG 2.2 Video]()
-* [W3 WCAG 2.2 Documentation]()
-* [Why website popups SUCK for accessibility (WCAG 2.2)]()
+Here's a brief introduction video to familiarize you with the concepts involved in the WCAG standards.
+
+[![What is WCAG video embed](https://img.youtube.com/vi/FsGussrOX60/0.jpg)](https://www.youtube.com/watch?v=FsGussrOX60)
+
+For more information about WCAG 2.2, please refer to the following resources:
+
+* [What is WCAG?](https://www.youtube.com/watch?v=FsGussrOX60)
+* [W3 WCAG 2.2 Documentation](https://www.w3.org/WAI/WCAG22/Understanding/)
 
 This documentation is divided into three parts, each focusing on different aspects of web accessibility. Here are brief descriptions of each part:
 
