@@ -1,5 +1,7 @@
 # Auditing Tools
 
+Accessibility auditing tools are software applications or online services that help evaluate and assess websites for adherence to accessibility standards such as WCAG. These tools analyze website content, structure, and functionality, providing valuable insights into potential accessibility issues and suggesting remedial actions. By utilizing these auditing tools, website owners and developers can identify and address accessibility barriers, ensuring their websites are inclusive and accessible to all users.
+
 ### WebAIM's WAVE
 
 WebAIM's WAVE is a widely-used web accessibility evaluation tool that offers detailed analysis and reporting of accessibility issues on web pages. It provides a user-friendly interface, making it suitable for individuals with varying levels of technical expertise. WAVE identifies potential accessibility problems and offers suggestions for improvement. It can be used directly in the browser or through browser extensions, enabling users to audit web content in real-time.
