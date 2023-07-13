@@ -18,7 +18,7 @@ For more information about WCAG 2.2, please refer to the following resources:
 
 * [W3 WCAG 2.2 Documentation](https://www.w3.org/WAI/WCAG22/Understanding/)
 
-## Section Title
+## Documentation Contents
 
 This documentation is divided into three parts:
 
