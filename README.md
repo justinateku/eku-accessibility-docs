@@ -12,8 +12,7 @@ We adhere to the Web Content Accessibility Guidelines (WCAG) 2.2. WCAG provides 
 
 Here's a brief introduction video to familiarize you with the concepts involved in the WCAG standards.
 
-[![What is WCAG video embed](https://img.youtube.com/vi/FsGussrOX60/0.jpg)](https://www.youtube.com/watch?v=FsGussrOX60){:target="_blank"}
-
+[![What is WCAG video embed](https://img.youtube.com/vi/FsGussrOX60/0.jpg)](https://www.youtube.com/watch?v=FsGussrOX60)
 
 For more information about WCAG 2.2, please refer to the following resources:
 
