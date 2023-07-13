@@ -28,7 +28,7 @@ This documentation is divided into three parts:
    
 3. **[Auditing Tools](auditing-tools.md)** - In this section, you will find information about tools and resources that can be used to audit and evaluate the accessibility of web content. These tools assist in identifying accessibility issues and provide guidance on how to address them effectively.
 
-## Contact Information
+## Questions?
 
 If you have any questions or need further assistance, please reach out to one of the following individuals:
 
