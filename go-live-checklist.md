@@ -12,7 +12,7 @@ Use this checklist as a content manager to ensure that the web pages you update 
 
 **Images and Alt Text:**
    - Add descriptive alternative text (alt text) for images, providing meaningful descriptions that convey their purpose or content.
-   - If an image is purely decorative and doesn't convey any important information, mark it as decorative or leave the alt text empty.
+   - If an image is purely decorative and doesn't convey any important information, mark it as decorative using the `aria-hidden="true"` property or leave the alt text empty.
 
 **Links and Buttons:**
    - Use descriptive text for link labels that accurately represents the link destination.
