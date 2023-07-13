@@ -19,7 +19,7 @@ This documentation is divided into three parts, each focusing on different aspec
    
 2. **[Go-Live Checklist]()** - The go-live checklist ensures that accessibility considerations are taken into account before launching a website or making updates. It helps ensure that accessibility is maintained throughout the development and maintenance process.
    
-3. [Auditing Tools]() - In this section, you will find information about tools and resources that can be used to audit and evaluate the accessibility of web content. These tools assist in identifying accessibility issues and provide guidance on how to address them effectively.
+3. **[Auditing Tools]()** - In this section, you will find information about tools and resources that can be used to audit and evaluate the accessibility of web content. These tools assist in identifying accessibility issues and provide guidance on how to address them effectively.
 
 ## Contact Information
 
