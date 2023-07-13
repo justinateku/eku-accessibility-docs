@@ -16,12 +16,13 @@ Here's a brief introduction video to familiarize you with the concepts involved 
 
 For more information about WCAG 2.2, please refer to the following resources:
 
-* [What is WCAG?](https://www.youtube.com/watch?v=FsGussrOX60)
 * [W3 WCAG 2.2 Documentation](https://www.w3.org/WAI/WCAG22/Understanding/)
 
-This documentation is divided into three parts, each focusing on different aspects of web accessibility. Here are brief descriptions of each part:
+## Section Title
 
-1. **[Guidelines & Best Practices](guidelines-and-best-practices.md)** - This section provides guidelines and best practices for creating accessible web content. It covers topics such as text size, color contrast, alternative text descriptions, and more.
+This documentation is divided into three parts:
+
+1. **[Guidelines & Best Practices](guidelines-and-best-practices.md)** - This document provides guidelines and best practices for creating accessible web content. It covers topics such as text size, color contrast, alternative text descriptions, and more.
    
 2. **[Go-Live Checklist](go-live-checklist.md)** - The go-live checklist ensures that accessibility considerations are taken into account before launching a website or making updates. It helps ensure that accessibility is maintained throughout the development and maintenance process.
    
