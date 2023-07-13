@@ -39,19 +39,19 @@ Use this checklist as a content manager to ensure that the web pages you update 
    - Ensure tables have appropriate row and column headers for screen readers to interpret the data accurately.
 
 **Audio and Video Player Controls:**
-    - Verify that media players have easily accessible controls for volume adjustment, playback, and pausing or stopping the content.
-    - Ensure that users can operate the media player using both the keyboard and mouse or touch inputs.
+   - Verify that media players have easily accessible controls for volume adjustment, playback, and pausing or stopping the content.
+   - Ensure that users can operate the media player using both the keyboard and mouse or touch inputs.
 
 **Alternative Content Delivery:**
-    - Provide alternative formats, such as downloadable PDFs or HTML versions, for content that might not be accessible in its original format.
-    - Offer alternative means of accessing important information, like providing a phone number or email address as an alternative to an online form.
+   - Provide alternative formats, such as downloadable PDFs or HTML versions, for content that might not be accessible in its original format.
+   - Offer alternative means of accessing important information, like providing a phone number or email address as an alternative to an online form.
 
 **Consistency and Navigation:**
-    - Maintain consistent navigation menus throughout the website to improve user familiarity and ease of use.
-    - Include skip navigation links or anchor links to allow users to bypass repetitive content and jump to the main content area.
+   - Maintain consistent navigation menus throughout the website to improve user familiarity and ease of use.
+   - Include skip navigation links or anchor links to allow users to bypass repetitive content and jump to the main content area.
 
 **Document Accessibility Policies:**
-    - Document and share the website's accessibility policy, including contact information for users to report accessibility issues.
-    - Regularly review and update the accessibility policy as needed to reflect any changes or improvements.
+   - Document and share the website's accessibility policy, including contact information for users to report accessibility issues.
+   - Regularly review and update the accessibility policy as needed to reflect any changes or improvements.
 
 Remember, while this checklist covers many essential accessibility considerations, it's essential to regularly consult the latest WCAG 2.2 guidelines and accessibility best practices to stay informed about emerging standards and techniques.
